@@ -44,7 +44,7 @@
 
 - 国土数値情報 活用事例ページ: https://nlftp.mlit.go.jp/ksj/case_studies.html
 - 発表資料（MIERUNE JCT #03）: https://www.docswell.com/s/shi-works/KMQ6VX-2026-06-10-205515
-- 到達圏分析デモ: https://shiwaku.github.io/ksj-route-search-api/
+- 到達圏分析・経路探索デモ: https://shiwaku.github.io/ksj-route-search-api/
 - 公共交通空白地域デモ: https://shiwaku.github.io/japan-transit-desert-analysis-125/
 
 ## ライセンス
