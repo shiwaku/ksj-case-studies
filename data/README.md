@@ -8,20 +8,26 @@
 |------|--------|--------------|
 | N13 | 道路データ | 01, 02, 03, 04 |
 | P11 | バス停留所 | 03 |
-| S12 | 駅別乗降客数 | 01, 03 |
+| S12 | 駅別乗降客数 | 03 |
 
 ## 参考データ（国土数値情報以外）
 
 | データ | 内容 | 主な利用事例 |
 |--------|------|--------------|
-| 令和2年国勢調査メッシュ人口 | 人口推計（03）／100mメッシュ人口は避難困難率の算定（04） | 03, 04 |
-| 静岡県第4次地震被害想定 | 浸水域 | 04 |
+| 令和2年国勢調査 250mメッシュ人口（e-Stat） | 公共交通空白地域の人口集計 | 03 |
+| 令和2年国勢調査 100mメッシュ夜間人口（東大CSIS 西沢氏加工） | 避難困難率の算定 | 04 |
+| 静岡県第4次地震被害想定 レベル2重合せ図 | 津波到達時間（浸水深30cm） | 04 |
+| 国土地理院 指定緊急避難場所・指定避難所データ | 避難場所（津波対応） | 04 |
+| 焼津市 津波一時避難施設 | 指定・民間協力ビル（地番ジオコーディング） | 04 |
 
 ## 出典
 
 - 国土数値情報ダウンロードサイト: https://nlftp.mlit.go.jp/ksj/
-- 国勢調査（e-Stat）: https://www.e-stat.go.jp/
-- 静岡県 第4次地震被害想定: https://www.pref.shizuoka.jp/
+- 国勢調査 250mメッシュ人口（e-Stat）: https://www.e-stat.go.jp/
+- 100mメッシュ夜間人口（令和2年国勢調査・東大CSIS 西沢氏加工）: https://gtfs-gis.jp/teikyo/
+- 静岡県第4次地震被害想定 レベル2重合せ図（G空間情報センター）: https://www.geospatial.jp/ckan/dataset/shizuokakenhigaisoutei1801-02
+- 国土地理院 指定緊急避難場所・指定避難所データ: https://hinanmap.gsi.go.jp/hinanjocp/hinanbasho/koukaidate.html
+- 焼津市 津波一時避難施設: https://www.city.yaizu.lg.jp/safety/bosai/bosai-info/earthquake/hinan/tsunami-ichiji.html
 
 ## ライセンス
 
