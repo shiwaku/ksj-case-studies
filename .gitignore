@@ -1,0 +1,32 @@
+# GISデータ本体（出典から入手する。リポジトリには含めない）
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+*.gpkg
+*.parquet
+*.csv
+*.zip
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 生成物
+プレビュー.html
+*.tmp
+
+# フォーム投稿用ドラフト（個人情報プレースホルダを含むため非公開）
+国土数値情報_活用事例_投稿ドラフト.md
