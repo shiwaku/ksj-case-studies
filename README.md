@@ -42,9 +42,9 @@
 
 - 国土数値情報 活用事例ページ: https://nlftp.mlit.go.jp/ksj/case_studies.html
 - 発表資料（MIERUNE JCT #03）: https://www.docswell.com/s/shi-works/KMQ6VX-2026-06-10-205515
-- 到達圏分析・経路探索デモ: https://shiwaku.github.io/ksj-route-search-api/
+- 到達圏分析・経路探索デモ: https://shiwaku.github.io/ksj-route-search-api/ （公開デモは埼玉県のみ対応）
 - 公共交通空白地域デモ: https://shiwaku.github.io/japan-transit-desert-analysis-125/
 
 ## ライセンス
 
-利用している国土数値情報は、データ・整備年次により提供ライセンスが異なります（例: 道路データ N13 の2026年4月版は **CC BY 4.0**）。出典の表示にあたっては各データおよび[国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/)の利用規約に従ってください。
+利用している国土数値情報は、データ・整備年次により提供ライセンスが異なります（例: 道路データ N13 の令和6年度（2024年度）版は、2026年4月に **CC BY 4.0** で公開）。出典の表示にあたっては各データおよび[国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/)の利用規約に従ってください。
