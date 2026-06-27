@@ -19,7 +19,7 @@
 ## 出典
 
 - 国土数値情報ダウンロードサイト: https://nlftp.mlit.go.jp/ksj/
-- 国勢調査 125mメッシュ人口（e-Stat）: https://www.e-stat.go.jp/
+- 令和2年国勢調査 125mメッシュ人口（e-Stat / 8分の1地域メッシュ）: https://www.e-stat.go.jp/gis/statmap-search?page=1&type=1&toukeiCode=00200521&toukeiYear=2020&aggregateUnit=E&serveyId=E002005112020&statsId=T001225&datum=2000
 
 ## ライセンス
 
