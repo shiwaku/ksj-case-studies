@@ -41,4 +41,4 @@ templates/case-template/  新規事例の雛形
 
 - デモのラベル: 「到達圏分析・経路探索デモ」
 - 速度の課題: 「速度設定の精緻化（道路分類種別）」
-- 使用ソフトウェア: Python、MapLibre GL JS、QGIS
+- 使用ソフトウェア: Python、MapLibre GL JS
